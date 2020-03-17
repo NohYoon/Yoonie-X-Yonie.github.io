@@ -1,4 +1,4 @@
-* 유니와 요니의 사랑 이야기! 2019.11.30~
+# 유니와 요니의 사랑 이야기! 2019.11.30~
 
 <img src="https://user-images.githubusercontent.com/22785823/76815324-af82c500-6840-11ea-966a-cf1e79713acf.jpg" width="90%">
 
