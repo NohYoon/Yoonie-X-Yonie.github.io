@@ -1,6 +1,6 @@
 * 유니와 요니의 사랑 이야기! 2019.11.30~
 
-<img src="https://user-images.githubusercontent.com/22785823/76815324-af82c500-6840-11ea-966a-cf1e79713acf.jpg" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/22785823/76815324-af82c500-6840-11ea-966a-cf1e79713acf.jpg" width="90%">
 * 새로운 진행을 위해서는 현 url 뒤에 파일명을 넣으세요
 * Ex: https://nohyoon.github.io/Yoonie-X-Yonie.github.io/version_20200317.html
 * 최신버전: test9.html
