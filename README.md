@@ -9,7 +9,7 @@
 
 
 * 새로운 진행을 위해서는 현 url 뒤에 파일명을 넣으세요
-* 최신버전: https://nohyoon.github.io/Yoonie-X-Yonie.github.io/version_20200317_v2.html
+* 최신버전: https://nohyoon.github.io/Yoonie-X-Yonie.github.io/version_20200318.html
 
 
 
