@@ -9,7 +9,7 @@
 
 
 
-* 최신버전: https://nohyoon.github.io/Yoonie-X-Yonie.github.io/version_20200318.html
+* 최신버전: https://nohyoon.github.io/Yoonie-X-Yonie.github.io/version_20200326.html
 
 
 * 새로운 데이트 스팟과 사진을 추가를 원하시면 google drive에 엑셀을 올려놓고 노유니에게 전화하세요>_<
